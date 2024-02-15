@@ -34,4 +34,8 @@ While modern banks have evolved to serve a plethora of functions, at their core,
 - Testing: is the system adequately tested?
 - Documentation: is the API well-documented? Host it via Postman.
 
+## Submit
+
+- Fork this repository, work on the requirements, push to the forked repository (under your account) and have the link to the repository shared with me.
+
 All the best and happy coding!
