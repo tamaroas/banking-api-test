@@ -36,6 +36,6 @@ While modern banks have evolved to serve a plethora of functions, at their core,
 
 ## Submit
 
-- Fork this repository, work on the requirements, push to the forked repository (under your account) and have the link to the repository shared with me.
+- Fork this repository, work on the requirements, push to the forked repository (under your account) and have the link to the repository shared with me. You've got a week to have it submitted (from the day you receive the invite).
 
 All the best and happy coding!
